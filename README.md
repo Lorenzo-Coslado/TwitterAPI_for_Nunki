@@ -1,5 +1,3 @@
-# TwitterAPI_for_Nunki
-
 # Lorenzo Coslado
 
 # Langage de Programmation
