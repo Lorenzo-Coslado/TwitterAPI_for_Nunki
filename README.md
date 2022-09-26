@@ -23,6 +23,7 @@
 
 # 1. Téléchargement du dossier Git
 
+![Download ZIP](https://user-images.githubusercontent.com/93212434/192364689-7d70a301-b4cc-4d2b-ad23-bbfbdbd18cbc.png)
 
 
 # 2. Lancement du fichier API
