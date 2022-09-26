@@ -21,3 +21,9 @@
 - pip install bs4
 - pip install lxml
 
+# 1. Téléchargement du dossier Git
+
+
+
+# 2. Lancement du fichier API
+
