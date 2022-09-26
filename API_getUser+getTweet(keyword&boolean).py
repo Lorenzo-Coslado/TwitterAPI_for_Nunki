@@ -65,7 +65,7 @@ def getUser(userId):
 
 
     
-### Route & Fonction Bonus ### 
+### Route & Fonction Bonus pour l'activer enlever les ""### 
 
 '''
 @app.route("/search=<keyword>/media=<boolean>/max=<max_tweets>", methods = ['GET'])
