@@ -79,7 +79,7 @@
 
 <img width="1280" alt="8" src="https://user-images.githubusercontent.com/93212434/192375866-e184a484-c896-4da1-8e9a-f3147631a094.png">
 
-6. Cas pratique BONUS avec postgreSQL
+# 6. Cas pratique BONUS avec postgreSQL
 
 - Lancez dans votre IDE le fichier Cas_Pratique_BONUS_postgreSQL.py
-- Changez votre userID
+- 
