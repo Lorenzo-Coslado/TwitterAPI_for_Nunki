@@ -54,4 +54,32 @@
 
 # 4. Cas pratique numéro 1 (getTweet / keyword & boolean)
 
+- WARNING !!!!  Le premier fichier doit toujours Run pendant la durée des Cas pratique
 
+- Lancez dans votre IDE le fichier Cas_Pratique_1.py
+- Changez votre keyword et votre boolean
+
+![Vous devez changer salut les gens et False (1)](https://user-images.githubusercontent.com/93212434/192380782-ff27d1c6-5c64-49bc-ae11-d5e504e71a3c.png)
+
+- Lancez dans votre terminal python Cas_Pratique_1.py
+- On peut voir que tout fonctionne correctement, on nous a bien print notre text_of_tweet
+
+<img width="1280" alt="10" src="https://user-images.githubusercontent.com/93212434/192380976-dd812c03-fa01-4609-872d-77cf60763135.png">
+
+
+# 5. Cas pratique numéro 2 (getUser / userId)
+
+- Lancez dans votre IDE le fichier Cas_Pratique_2.py
+- Changez votre userID
+
+![Vous devez changer 103770784](https://user-images.githubusercontent.com/93212434/192375834-41dba2b6-2072-4c79-a104-4f3990cabff2.png)
+
+- Lancez dans votre terminal python Cas_Pratique_2.py
+- On peut voir que tout fonctionne correctement, on nous a bien print notre user_info
+
+<img width="1280" alt="8" src="https://user-images.githubusercontent.com/93212434/192375866-e184a484-c896-4da1-8e9a-f3147631a094.png">
+
+6. Cas pratique BONUS avec postgreSQL
+
+- Lancez dans votre IDE le fichier Cas_Pratique_BONUS_postgreSQL.py
+- Changez votre userID
